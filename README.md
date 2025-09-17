@@ -1,5 +1,5 @@
-"""
-README - Öğrenci Yönetim Sistemi (Basit)
+1. Hafta
+README - Öğrenci Yönetim Sistemi (Basit) 
 
 Bu Python betiği bir sınıf için basit bir Öğrenci Yönetim Sistemi uygular.
 Program aşağıdakileri yapar: 
@@ -13,4 +13,3 @@ Basit list-comprehension örnekleri ve set kullanımı.
     python ogrenci_yonetim_sistemi.py
 
 Kısaca menü tabanlı bir uygulamadır. 1-5 arası seçimle işlemler yapılır.
-"""
